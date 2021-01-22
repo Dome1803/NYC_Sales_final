@@ -12,7 +12,7 @@ This project analysis the New York City property market to reveal significant in
 
 ## Modules
 
-* functions - functions that are used commonly, e.g. to_csv etc.
+* [functions](NYC_Sales_final/functions.py) - functions that are used commonly, e.g. to_csv etc.
 * transform - most important adjustments for the dataframe
 
 ## Where to get it
@@ -29,4 +29,4 @@ There is also an exact visualisation [How it works.PNG] of all the connections.
 ###Contact Us
 ludwigdo67958@th-nuernberg.de\
 baumgaertnerma67635@th-nuernberg.de\
-staengleka78798@th-nuernberg.de# NYC_Sales_final
+staengleka78798@th-nuernberg.de
