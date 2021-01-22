@@ -24,7 +24,7 @@ The source code is currently hosted on GitHub at: https://github.com/Dome1803/NY
 3. Then run sales_landvsgross16_17.ipynb
 
 Now all relevant CSV Data has been created. Feel free to run everything.\
-There is also a exact [visualisation](graphics/How it works.PNG) of all the connections.
+There is also an exact [visualisation](graphics/Howitworks.PNG) of all the connections.
 
 ###Contact Us
 ludwigdo67958@th-nuernberg.de\
