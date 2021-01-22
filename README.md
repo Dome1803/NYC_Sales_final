@@ -13,7 +13,7 @@ This project analysis the New York City property market to reveal significant in
 ## Modules
 
 * [functions](functions.py) - functions that are used commonly, e.g. to_csv etc.
-* transform - most important adjustments for the dataframe
+* [transform](transform.py) - most important adjustments for the dataframe
 
 ## Where to get it
 The source code is currently hosted on GitHub at: https://github.com/Dome1803/NYC_Sales_final
